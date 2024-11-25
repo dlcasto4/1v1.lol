@@ -8,7 +8,7 @@ dependencyUrls.push("js/adsController.js", "js/cpmstar.js", "js/moneyController.
 //Firebase/Google Libraries
 dependencyUrls.push("js/googleAnalytics.js", "js/Firebase/firebase-init.js?v=2", "js/Firebase/firebase-login.js?v=2", "js/Firebase/firebase-config.js?v=2", "js/Firebase/firebase-firestore.js?v=2")
 //Game Libraries
-dependencyUrls.push("js/unityUrls.js?v=2", "js/unityGame.js?v=2", "js/mobileRedirect.js", "js/fullscreen.js")
+dependencyUrls.push("js/unityUrls.js", "js/unityGame.js", "js/mobileRedirect.js", "js/fullscreen.js")
 //etc. Libraries
 dependencyUrls.push("js/windowResize.js", "js/blockManager.js", "js/macUserAgent.js", "js/visibilityChangeListener.js", "PC/payment/js/xsolla.js")
 
