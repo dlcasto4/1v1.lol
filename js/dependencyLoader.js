@@ -2,7 +2,7 @@ let dependencyUrls = []
 const maxLoadTimesTrys = 4;
 
 //Main Libraries
-dependencyUrls.push("https://www.googletagmanager.com/gtag/js?id=UA-118283086-6", "https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js");
+dependencyUrls.push("https://www.googletagmanager.com/gtag/js?id=UA-118283086-6", "js/jquery.min.js");
 //Ads Libraries
 dependencyUrls.push("js/adsController.js", "js/cpmstar.js", "js/moneyController.js");
 //Firebase/Google Libraries
