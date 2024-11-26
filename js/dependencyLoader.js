@@ -6,7 +6,7 @@ dependencyUrls.push("https://www.googletagmanager.com/gtag/js?id=UA-118283086-6"
 //Ads Libraries
 dependencyUrls.push("js/adsController.js", "js/cpmstar.js", "js/moneyController.js");
 //Firebase/Google Libraries
-dependencyUrls.push("js/googleAnalytics.js", "js/Firebase/firebase-init.js?v=2", "js/Firebase/firebase-login.js?v=2", "js/Firebase/firebase-config.js?v=2", "js/Firebase/firebase-firestore.js?v=2")
+dependencyUrls.push("js/googleAnalytics.js", "js/Firebase/firebase-init.js", "js/Firebase/firebase-login.js", "js/Firebase/firebase-config.js", "js/Firebase/firebase-firestore.js")
 //Game Libraries
 dependencyUrls.push("js/unityUrls.js", "js/unityGame.js", "js/mobileRedirect.js", "js/fullscreen.js")
 //etc. Libraries
